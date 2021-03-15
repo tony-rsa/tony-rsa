@@ -3,7 +3,7 @@
 - 🌱 I’m currently a student at WeThinkCode learning Software Development.
 - 💞️ I’m looking to collaborate on anything, feel free to contact me.
 - 📫 How to reach me: 
--   Email -> thmuhali@gmail.com 
+-   Email -> tmuhali@student.wethinkcode.co.za
 -   Phone -> 067 653 2623 
 -   LinkedIn -> https://www.linkedin.com/in/thonifho-muhali-16a58b1b4/
 
