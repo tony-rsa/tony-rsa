@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tony-rsa
+- 👋 Hi, I’m Thonifho Muhali (23)
 - 👀 I’m interested in Cloud Computing and Mechine Learning.
 - 🌱 I’m currently a student at WeThinkCode learning Software Development.
 - 💞️ I’m looking to collaborate on anything, feel free to contact me.
