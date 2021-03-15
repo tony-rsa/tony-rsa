@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tony-rsa
 - 👀 I’m interested in Cloud Computing and Mechine Learning.
 - 🌱 I’m currently a student at WeThinkCode learning Software Development.
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate on anything, just send an email.
 - 📫 How to reach me: 
 -   Email -> thmuhali@gmail.com 
 -   Phone -> 067 653 2623 
