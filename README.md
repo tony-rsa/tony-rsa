@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thonifho Muhali (23)
 - 👀 I’m interested in Cloud Computing and Machine Learning.
 - 🌱 I’m currently a student at WeThinkCode learning Software Development.
-- 💞️ I’m looking to collaborate on anything, feel free to contact me.
+- 💞️ I’m looking to collaborating, feel free to contact me.
 - 📫 How to reach me: 
 -   Phone -> 067 653 2623 
 -   Email -> tmuhali@student.wethinkcode.co.za
