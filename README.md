@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thonifho Muhali (23)
-- 👀 I’m interested in Cloud Computing and Big Data.
+- 👀 I’m interested in Backend, Cloud Computing and Big Data.
 - 🌱 I’m currently a student at WeThinkCode learning Software Development.
 - 💞️ I’m looking to collaborate on Java, Python and Deep learning related projects, feel free to contact me.
 - 📫 How to reach me: 
