@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thonifho Muhali. I am a Software Engineer @ Palota!
+- 👋 Hi, I’m Thonifho Muhali. I am a Software Engineer!
 
 - 📫 How to reach me: 
   -   Phone     ->  063 505 3348
