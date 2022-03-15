@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thonifho Muhali (24)
+- 👋 Hi, I’m Thonifho Muhali
 
 - 📫 How to reach me: 
   -   Phone     ->  063 505 3348
